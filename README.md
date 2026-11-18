@@ -5,9 +5,19 @@
 </div>
 
 <p align="center">
-  <img src="assets/commit-candles.svg" alt="My GitHub contributions over the last year, drawn as a weekly stock candlestick chart" width="100%">
+  <img src="assets/ticker.svg" alt="Ticker tape of my GitHub stats: commits, pull requests, reviews, repositories and current streak" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/commit-candles.svg" alt="My GitHub contributions drawn as a weekly stock candlestick chart" width="100%">
   <br>
-  <sub>My commit history, drawn as a stock chart. Price = contributions in the trailing 7 days. One candle per week: green if the week ended higher than it began, red if lower. Volume bars = weekly total. Redrawn daily by a <a href="scripts/candles.py">small Python script</a>.</sub>
+  <sub>My commit history, drawn as a stock chart. Price = contributions in the trailing 7 days. One candle per week: green if the week ended higher than it began, red if lower. Volume bars = weekly total. Redrawn twice a day by a <a href="scripts/profile_art.py">small Python script</a>.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/status.svg" alt="Live status board: whether the main MarketDeck pages are up right now" width="100%">
+  <br>
+  <sub>Live status of the MarketDeck pages, checked from GitHub's servers on every redraw.</sub>
 </p>
 
 ## Who I am
