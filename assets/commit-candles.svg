@@ -1,173 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" width="920" height="360" role="img" aria-label="Weekly candlestick chart of sarthakk-1126's GitHub contributions over the last year">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" width="920" height="360" role="img" aria-label="Weekly candlestick chart of sarthakk-1126 GitHub contributions since the first commit"><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
 <rect width="920" height="360" rx="12" fill="#0d1117" stroke="#21262d"/>
-<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
-<line x1="54" x2="896" y1="250.0" y2="250.0" stroke="#21262d"/>
-<text x="46" y="254.0" font-size="10" fill="#7d8590" text-anchor="end">0</text>
-<line x1="54" x2="896" y1="202.0" y2="202.0" stroke="#21262d"/>
-<text x="46" y="206.0" font-size="10" fill="#7d8590" text-anchor="end">168</text>
-<line x1="54" x2="896" y1="154.0" y2="154.0" stroke="#21262d"/>
-<text x="46" y="158.0" font-size="10" fill="#7d8590" text-anchor="end">336</text>
-<line x1="54" x2="896" y1="106.0" y2="106.0" stroke="#21262d"/>
-<text x="46" y="110.0" font-size="10" fill="#7d8590" text-anchor="end">505</text>
-<line x1="54" x2="896" y1="58.0" y2="58.0" stroke="#21262d"/>
-<text x="46" y="62.0" font-size="10" fill="#7d8590" text-anchor="end">673</text>
-<text x="54" y="30" font-size="16" font-weight="700" fill="#e6edf3">SARTHAKK-1126 · COMMITS/7D</text>
-<text x="384" y="30" font-size="16" fill="#3fb950">343  ▲ 1391% w/w</text>
-<text x="896" y="30" font-size="11" fill="#7d8590" text-anchor="end">WEEKLY · LAST 52 WEEKS</text>
-<line x1="62.3" x2="62.3" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="57.3" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2025-11-26: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="57.3" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="78.8" x2="78.8" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="73.8" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2025-12-03: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="73.8" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="95.3" x2="95.3" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="90.3" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2025-12-10: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="90.3" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="111.8" x2="111.8" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="106.8" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2025-12-17: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="106.8" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="128.3" x2="128.3" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="123.3" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2025-12-24: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="123.3" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="144.8" x2="144.8" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="139.9" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2025-12-31: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="139.9" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="161.3" x2="161.3" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="156.4" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-01-07: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="156.4" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="177.8" x2="177.8" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="172.9" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-01-14: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="172.9" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="194.3" x2="194.3" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="189.4" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-01-21: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="189.4" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="210.8" x2="210.8" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="205.9" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-01-28: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="205.9" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="227.4" x2="227.4" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="222.4" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-02-04: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="222.4" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="243.9" x2="243.9" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="238.9" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-02-11: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="238.9" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="260.4" x2="260.4" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="255.4" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-02-18: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="255.4" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="276.9" x2="276.9" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="271.9" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-02-25: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="271.9" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="293.4" x2="293.4" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="288.4" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-03-04: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="288.4" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="309.9" x2="309.9" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="304.9" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-03-11: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="304.9" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="326.4" x2="326.4" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="321.5" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-03-18: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="321.5" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="342.9" x2="342.9" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="338.0" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-03-25: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="338.0" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="359.4" x2="359.4" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="354.5" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-04-01: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="354.5" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="375.9" x2="375.9" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="371.0" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-04-08: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="371.0" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="392.5" x2="392.5" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="387.5" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-04-15: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="387.5" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="409.0" x2="409.0" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="404.0" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-04-22: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="404.0" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="425.5" x2="425.5" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="420.5" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-04-29: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="420.5" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="442.0" x2="442.0" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="437.0" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-05-06: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="437.0" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="458.5" x2="458.5" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="453.5" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-05-13: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="453.5" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="475.0" x2="475.0" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="470.0" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-05-20: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="470.0" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="491.5" x2="491.5" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="486.6" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-05-27: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="486.6" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="508.0" x2="508.0" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="503.1" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-06-03: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="503.1" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="524.5" x2="524.5" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="519.6" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-06-10: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="519.6" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="541.0" x2="541.0" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="536.1" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-06-17: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="536.1" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="557.5" x2="557.5" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="552.6" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-06-24: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="552.6" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="574.1" x2="574.1" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="569.1" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-07-01: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="569.1" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="590.6" x2="590.6" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="585.6" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-07-08: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="585.6" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="607.1" x2="607.1" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="602.1" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-07-15: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="602.1" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="623.6" x2="623.6" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="618.6" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-07-22: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="618.6" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="640.1" x2="640.1" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="635.1" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-07-29: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="635.1" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="656.6" x2="656.6" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="651.7" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-08-05: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="651.7" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="673.1" x2="673.1" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="668.2" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-08-12: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="668.2" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="689.6" x2="689.6" y1="250.0" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="684.7" y="250.0" width="9.9" height="1.5" fill="#3fb950"><title>week of 2026-08-19: open 0, close 0, high 0, low 0, total 0</title></rect>
-<rect x="684.7" y="318.0" width="9.9" height="0.0" fill="#3fb950" opacity="0.35"/>
-<line x1="706.1" x2="706.1" y1="180.1" y2="250.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="701.2" y="180.1" width="9.9" height="69.9" fill="#3fb950"><title>week of 2026-08-26: open 0, close 245, high 245, low 0, total 245</title></rect>
-<rect x="701.2" y="302.0" width="9.9" height="16.0" fill="#3fb950" opacity="0.35"/>
-<line x1="722.6" x2="722.6" y1="135.3" y2="163.6" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="717.7" y="156.4" width="9.9" height="7.1" fill="#3fb950"><title>week of 2026-09-02: open 303, close 328, high 402, low 303, total 328</title></rect>
-<rect x="717.7" y="296.6" width="9.9" height="21.4" fill="#3fb950" opacity="0.35"/>
-<line x1="739.2" x2="739.2" y1="170.1" y2="243.4" stroke="#f85149" stroke-width="1.4"/>
-<rect x="734.2" y="170.1" width="9.9" height="73.3" fill="#f85149"><title>week of 2026-09-09: open 280, close 23, high 280, low 23, total 23</title></rect>
-<rect x="734.2" y="316.5" width="9.9" height="1.5" fill="#f85149" opacity="0.35"/>
-<line x1="755.7" x2="755.7" y1="205.8" y2="246.3" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="750.7" y="205.8" width="9.9" height="40.5" fill="#3fb950"><title>week of 2026-09-16: open 13, close 155, high 155, low 13, total 155</title></rect>
-<rect x="750.7" y="307.9" width="9.9" height="10.1" fill="#3fb950" opacity="0.35"/>
-<line x1="772.2" x2="772.2" y1="125.6" y2="192.9" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="767.2" y="125.6" width="9.9" height="67.3" fill="#3fb950"><title>week of 2026-09-23: open 200, close 436, high 436, low 200, total 436</title></rect>
-<rect x="767.2" y="289.5" width="9.9" height="28.5" fill="#3fb950" opacity="0.35"/>
-<line x1="788.7" x2="788.7" y1="58.0" y2="135.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="783.7" y="58.0" width="9.9" height="72.5" fill="#3fb950"><title>week of 2026-09-30: open 419, close 673, high 673, low 403, total 673</title></rect>
-<rect x="783.7" y="274.0" width="9.9" height="44.0" fill="#3fb950" opacity="0.35"/>
-<line x1="805.2" x2="805.2" y1="58.3" y2="212.1" stroke="#f85149" stroke-width="1.4"/>
-<rect x="800.2" y="58.3" width="9.9" height="153.8" fill="#f85149"><title>week of 2026-10-07: open 672, close 133, high 672, low 133, total 133</title></rect>
-<rect x="800.2" y="309.3" width="9.9" height="8.7" fill="#f85149" opacity="0.35"/>
-<line x1="821.7" x2="821.7" y1="97.4" y2="126.8" stroke="#f85149" stroke-width="1.4"/>
-<rect x="816.8" y="103.6" width="9.9" height="23.1" fill="#f85149"><title>week of 2026-10-14: open 513, close 432, high 535, low 432, total 432</title></rect>
-<rect x="816.8" y="289.8" width="9.9" height="28.2" fill="#f85149" opacity="0.35"/>
-<line x1="838.2" x2="838.2" y1="230.9" y2="246.6" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="833.3" y="230.9" width="9.9" height="12.0" fill="#3fb950"><title>week of 2026-10-21: open 25, close 67, high 67, low 12, total 67</title></rect>
-<rect x="833.3" y="313.6" width="9.9" height="4.4" fill="#3fb950" opacity="0.35"/>
-<line x1="854.7" x2="854.7" y1="202.6" y2="224.0" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="849.8" y="203.5" width="9.9" height="20.5" fill="#3fb950"><title>week of 2026-10-28: open 91, close 163, high 166, low 91, total 163</title></rect>
-<rect x="849.8" y="307.3" width="9.9" height="10.7" fill="#3fb950" opacity="0.35"/>
-<line x1="871.2" x2="871.2" y1="207.8" y2="243.4" stroke="#f85149" stroke-width="1.4"/>
-<rect x="866.3" y="207.8" width="9.9" height="35.7" fill="#f85149"><title>week of 2026-11-04: open 148, close 23, high 148, low 23, total 23</title></rect>
-<rect x="866.3" y="316.5" width="9.9" height="1.5" fill="#f85149" opacity="0.35"/>
-<line x1="887.7" x2="887.7" y1="152.1" y2="245.4" stroke="#3fb950" stroke-width="1.4"/>
-<rect x="882.8" y="152.1" width="9.9" height="92.1" fill="#3fb950"><title>week of 2026-11-11: open 20, close 343, high 343, low 16, total 343</title></rect>
-<rect x="882.8" y="295.6" width="9.9" height="22.4" fill="#3fb950" opacity="0.35"/>
-<text x="54" y="334" font-size="10" fill="#7d8590">2025-11-26</text>
-<text x="896" y="334" font-size="10" fill="#7d8590" text-anchor="end">2026-11-11</text>
-<text x="460.0" y="334" font-size="10" fill="#7d8590" text-anchor="middle">price = contributions in trailing 7 days · volume = weekly total</text>
-</svg>
+<line x1="56" x2="892" y1="262.0" y2="262.0" stroke="#21262d"/><text x="48" y="266.0" font-size="10" fill="#7d8590" text-anchor="end">0</text>
+<line x1="56" x2="892" y1="213.0" y2="213.0" stroke="#21262d"/><text x="48" y="217.0" font-size="10" fill="#7d8590" text-anchor="end">182</text>
+<line x1="56" x2="892" y1="164.0" y2="164.0" stroke="#21262d"/><text x="48" y="168.0" font-size="10" fill="#7d8590" text-anchor="end">363</text>
+<line x1="56" x2="892" y1="115.0" y2="115.0" stroke="#21262d"/><text x="48" y="119.0" font-size="10" fill="#7d8590" text-anchor="end">545</text>
+<line x1="56" x2="892" y1="66.0" y2="66.0" stroke="#21262d"/><text x="48" y="70.0" font-size="10" fill="#7d8590" text-anchor="end">727</text>
+<text x="56" y="32" font-size="16" font-weight="700" fill="#e6edf3">SARTHAKK-1126 · COMMITS/7D</text>
+<text x="396" y="32" font-size="16" fill="#3fb950">343  ▲ +320 w/w</text>
+<text x="892" y="32" font-size="11" fill="#7d8590" text-anchor="end">WEEKLY · SINCE FIRST COMMIT · 12 WEEKS</text>
+<line x1="90.8" x2="90.8" y1="195.9" y2="262.0" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="77.8" y="195.9" width="26.0" height="66.1" fill="#3fb950"><title>week of 2026-08-26: open 0, close 245, high 245, low 0, total 245</title></rect>
+<rect x="77.8" y="307.4" width="26.0" height="14.6" fill="#3fb950" opacity="0.35"/>
+<line x1="160.5" x2="160.5" y1="153.6" y2="180.3" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="147.5" y="173.6" width="26.0" height="6.7" fill="#3fb950"><title>week of 2026-09-02: open 303, close 328, high 402, low 303, total 328</title></rect>
+<rect x="147.5" y="302.5" width="26.0" height="19.5" fill="#3fb950" opacity="0.35"/>
+<line x1="230.2" x2="230.2" y1="186.5" y2="255.8" stroke="#f85149" stroke-width="1.5"/>
+<rect x="217.2" y="186.5" width="26.0" height="69.3" fill="#f85149"><title>week of 2026-09-09: open 280, close 23, high 280, low 23, total 23</title></rect>
+<rect x="217.2" y="320.6" width="26.0" height="1.4" fill="#f85149" opacity="0.35"/>
+<line x1="299.8" x2="299.8" y1="220.2" y2="258.5" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="286.8" y="220.2" width="26.0" height="38.3" fill="#3fb950"><title>week of 2026-09-16: open 13, close 155, high 155, low 13, total 155</title></rect>
+<rect x="286.8" y="312.8" width="26.0" height="9.2" fill="#3fb950" opacity="0.35"/>
+<line x1="369.5" x2="369.5" y1="144.4" y2="208.1" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="356.5" y="144.4" width="26.0" height="63.6" fill="#3fb950"><title>week of 2026-09-23: open 200, close 436, high 436, low 200, total 436</title></rect>
+<rect x="356.5" y="296.1" width="26.0" height="25.9" fill="#3fb950" opacity="0.35"/>
+<line x1="439.2" x2="439.2" y1="80.5" y2="153.3" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="426.2" y="80.5" width="26.0" height="68.5" fill="#3fb950"><title>week of 2026-09-30: open 419, close 673, high 673, low 403, total 673</title></rect>
+<rect x="426.2" y="282.0" width="26.0" height="40.0" fill="#3fb950" opacity="0.35"/>
+<line x1="508.8" x2="508.8" y1="80.8" y2="226.1" stroke="#f85149" stroke-width="1.5"/>
+<rect x="495.8" y="80.8" width="26.0" height="145.3" fill="#f85149"><title>week of 2026-10-07: open 672, close 133, high 672, low 133, total 133</title></rect>
+<rect x="495.8" y="314.1" width="26.0" height="7.9" fill="#f85149" opacity="0.35"/>
+<line x1="578.5" x2="578.5" y1="117.7" y2="145.5" stroke="#f85149" stroke-width="1.5"/>
+<rect x="565.5" y="123.7" width="26.0" height="21.8" fill="#f85149"><title>week of 2026-10-14: open 513, close 432, high 535, low 432, total 432</title></rect>
+<rect x="565.5" y="296.3" width="26.0" height="25.7" fill="#f85149" opacity="0.35"/>
+<line x1="648.2" x2="648.2" y1="243.9" y2="258.8" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="635.2" y="243.9" width="26.0" height="11.3" fill="#3fb950"><title>week of 2026-10-21: open 25, close 67, high 67, low 12, total 67</title></rect>
+<rect x="635.2" y="318.0" width="26.0" height="4.0" fill="#3fb950" opacity="0.35"/>
+<line x1="717.8" x2="717.8" y1="217.2" y2="237.5" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="704.8" y="218.0" width="26.0" height="19.4" fill="#3fb950"><title>week of 2026-10-28: open 91, close 163, high 166, low 91, total 163</title></rect>
+<rect x="704.8" y="312.3" width="26.0" height="9.7" fill="#3fb950" opacity="0.35"/>
+<line x1="787.5" x2="787.5" y1="222.1" y2="255.8" stroke="#f85149" stroke-width="1.5"/>
+<rect x="774.5" y="222.1" width="26.0" height="33.7" fill="#f85149"><title>week of 2026-11-04: open 148, close 23, high 148, low 23, total 23</title></rect>
+<rect x="774.5" y="320.6" width="26.0" height="1.4" fill="#f85149" opacity="0.35"/>
+<line x1="857.2" x2="857.2" y1="169.5" y2="257.7" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="844.2" y="169.5" width="26.0" height="87.1" fill="#3fb950"><title>week of 2026-11-11: open 20, close 343, high 343, low 16, total 343</title></rect>
+<rect x="844.2" y="301.6" width="26.0" height="20.4" fill="#3fb950" opacity="0.35"/>
+<polyline fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="5 4" points="90.8,195.9 160.5,184.7 230.2,208.4 299.8,211.4 369.5,198.5 439.2,175.2 508.8,167.8 578.5,149.1 648.2,174.0 717.8,208.4 787.5,215.8 857.2,221.8"/>
+<text x="439.2" y="72.5" font-size="11" fill="#d29922" text-anchor="middle">ATH 673</text>
+<line x1="56" x2="56" y1="60" y2="262" stroke="#58a6ff" stroke-dasharray="3 3"/><text x="62" y="72" font-size="11" fill="#58a6ff">IPO · 2026-08-26</text>
+<text x="56" y="340" font-size="10" fill="#7d8590">price = contributions in trailing 7 days · dashed line = 4-week average · bars = weekly volume</text>
+<text x="892" y="340" font-size="10" fill="#7d8590" text-anchor="end">2026-11-11</text></svg>
