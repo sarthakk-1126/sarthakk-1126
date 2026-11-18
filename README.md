@@ -51,4 +51,4 @@ I run it as a small software factory: narrow, deterministic Python products, shi
 
 ## Find me
 
-[marketdeck.in](https://marketdeck.in) · [About MarketDeck](https://marketdeck.in/about/) · <!-- add LinkedIn and X links here -->
+[marketdeck.in](https://marketdeck.in) · [About MarketDeck](https://marketdeck.in/about/) · [LinkedIn](https://www.linkedin.com/in/sarthak-verma-14053924b/)
