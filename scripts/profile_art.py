@@ -109,8 +109,8 @@ def chart_svg(cs, login, is_demo):
 
 def ticker_svg(stats, st, up_count, total_products):
     W, H = 920, 44
-    items = [("CONTRIBUTIONS 52W", f'{stats["total"]:,}', UP), ("COMMITS", f'{stats["commits"]:,}', UP), ("PRS OPENED", f'{stats["prs"]:,}', UP),
-             ("REVIEWS", f'{stats["reviews"]:,}', BLUE), ("REPOS", str(stats["repos"]), TXT), ("STREAK", f"{st}d", UP if st else MUTED),
+    items = [("CONTRIBUTIONS 52W", f'{stats["total"]:,}', UP), ("ACTIVE DAYS", f'{stats["active"]}/{stats["span"]}', UP), ("BEST DAY", f'{stats["best_day"]:,}', BLUE),
+             ("DAILY AVG", f'{stats["avg"]:.1f}', TXT), ("STREAK", f"{st}d", UP if st else MUTED),
              ("MARKETDECK", f"● {up_count}/{total_products} UP", UP if up_count == total_products else AMBER)]
     cw = 8.4; x = 24; row = []
     for a, b, c in items:
@@ -174,6 +174,11 @@ if __name__ == "__main__":
     os.makedirs(out_dir, exist_ok=True)
     login = os.environ.get("GH_LOGIN", "sarthakk-1126")
     days, stats = demo() if is_demo else fetch(login, os.environ["GH_TOKEN"])
+    vals = list(days.values())
+    first = next((i for i, v in enumerate(vals) if v > 0), 0)
+    span_vals = vals[first:] or vals
+    stats.update(active=sum(1 for v in span_vals if v > 0), span=len(span_vals), best_day=max(vals) if vals else 0,
+                 avg=(sum(span_vals) / len(span_vals)) if span_vals else 0.0)
     cs = candles(days)
     if len(cs) < 3: raise SystemExit("not enough data to draw")
     if "--no-status" in a:

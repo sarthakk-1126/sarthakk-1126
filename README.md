@@ -1,11 +1,11 @@
-<div align="center">
+﻿<div align="center">
 
 <a href="https://marketdeck.in/about/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=3FB950&center=true&vCenter=true&width=720&lines=Sarthak+Verma;Co-founder+%26+CEO+%C2%B7+MarketDeck;Finance+%C3%97+Python+%C3%97+quant+research;Building+research+tools+for+Indian+markets" alt="Sarthak Verma. Co-founder and CEO, MarketDeck. Finance, Python and quant research. Building research tools for Indian markets."></a>
 
 </div>
 
 <p align="center">
-  <img src="assets/ticker.svg" alt="Ticker tape of my GitHub stats: commits, pull requests, reviews, repositories and current streak" width="100%">
+  <img src="assets/ticker.svg" alt="Ticker tape of my GitHub stats: contributions, active days, best day, daily average and current streak" width="100%">
 </p>
 
 <p align="center">
