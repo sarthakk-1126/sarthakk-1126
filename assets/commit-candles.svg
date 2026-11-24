@@ -6,7 +6,7 @@
 <line x1="56" x2="892" y1="115.0" y2="115.0" stroke="#21262d"/><text x="48" y="119.0" font-size="10" fill="#7d8590" text-anchor="end">545</text>
 <line x1="56" x2="892" y1="66.0" y2="66.0" stroke="#21262d"/><text x="48" y="70.0" font-size="10" fill="#7d8590" text-anchor="end">727</text>
 <text x="56" y="32" font-size="16" font-weight="700" fill="#e6edf3">SARTHAKK-1126 · COMMITS/7D</text>
-<text x="396" y="32" font-size="16" fill="#3fb950">349  ▲ +147 w/w</text>
+<text x="396" y="32" font-size="16" fill="#3fb950">363  ▲ +161 w/w</text>
 <text x="892" y="32" font-size="11" fill="#7d8590" text-anchor="end">WEEKLY · SINCE FIRST COMMIT · 13 WEEKS</text>
 <line x1="88.2" x2="88.2" y1="202.1" y2="262.0" stroke="#3fb950" stroke-width="1.5"/>
 <rect x="75.2" y="202.1" width="26.0" height="59.9" fill="#3fb950"><title>week of 2026-08-25: open 0, close 222, high 222, low 0, total 222</title></rect>
@@ -44,10 +44,10 @@
 <line x1="795.5" x2="795.5" y1="207.5" y2="257.7" stroke="#3fb950" stroke-width="1.5"/>
 <rect x="782.5" y="207.5" width="26.0" height="48.3" fill="#3fb950"><title>week of 2026-11-10: open 23, close 202, high 202, low 16, total 202</title></rect>
 <rect x="782.5" y="309.5" width="26.0" height="12.5" fill="#3fb950" opacity="0.35"/>
-<line x1="859.8" x2="859.8" y1="142.3" y2="169.5" stroke="#3fb950" stroke-width="1.5"/>
-<rect x="846.8" y="167.9" width="26.0" height="1.6" fill="#3fb950"><title>week of 2026-11-17: open 343, close 349, high 444, low 343, total 349</title></rect>
-<rect x="846.8" y="300.4" width="26.0" height="21.6" fill="#3fb950" opacity="0.35"/>
-<polyline fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="5 4" points="88.2,202.1 152.5,189.7 216.8,208.4 281.1,212.2 345.4,207.1 409.7,184.7 474.0,173.1 538.3,148.3 602.6,164.5 666.9,196.9 731.2,210.5 795.5,231.3 859.8,211.6"/>
+<line x1="859.8" x2="859.8" y1="140.1" y2="167.3" stroke="#3fb950" stroke-width="1.5"/>
+<rect x="846.8" y="164.1" width="26.0" height="3.2" fill="#3fb950"><title>week of 2026-11-17: open 351, close 363, high 452, low 351, total 363</title></rect>
+<rect x="846.8" y="299.5" width="26.0" height="22.5" fill="#3fb950" opacity="0.35"/>
+<polyline fill="none" stroke="#d29922" stroke-width="2" stroke-dasharray="5 4" points="88.2,202.1 152.5,189.7 216.8,208.4 281.1,212.2 345.4,207.1 409.7,184.7 474.0,173.1 538.3,148.3 602.6,164.5 666.9,196.9 731.2,210.5 795.5,231.3 859.8,210.7"/>
 <text x="474.0" y="72.5" font-size="11" fill="#d29922" text-anchor="middle">ATH 673</text>
 <line x1="56" x2="56" y1="60" y2="262" stroke="#58a6ff" stroke-dasharray="3 3"/><text x="62" y="72" font-size="11" fill="#58a6ff">IPO · 2026-08-25</text>
 <text x="56" y="340" font-size="10" fill="#7d8590">price = contributions in trailing 7 days · dashed line = 4-week average · bars = weekly volume</text>
